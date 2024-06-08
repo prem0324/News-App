@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Bairstow bowled by 'classic' Shakib ball for 52",
+        "description": "Jonny Bairstow is bowled by a \"classic\" ball from Shakib Al Hasan as England make a strong start against Bangladesh at the Cricket World Cup in Dharamsala.",
+        "url": "http://www.bbc.co.uk/sport/av/cricket/67062501",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14809/production/_131377938_p0gkjc3m.jpg",
+        "publishedAt": "2023-10-10T07:22:19.4505652Z",
+        "content": "Jonny Bairstow is bowled by a \"classic\" ball from Shakib Al Hasan after scoring 52 runs as England make a strong start against Bangladesh at the Cricket World Cup in Dharamsala.\r\nFOLLOW LIVE: England… [+41 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Malan hits impressive half-century off 39 balls",
+        "description": "Watch some of the best shots as opener Dawid Malan hits 50 off 39 balls to help England get off to a good start against Bangladesh at the Cricket World Cup in Dharamsala.",
+        "url": "http://www.bbc.co.uk/sport/av/cricket/67062499",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F9E9/production/_131377936_p0gkjb6r.jpg",
+        "publishedAt": "2023-10-10T06:52:13.9193871Z",
+        "content": "Watch some of the best shots as opener Dawid Malan hits 50 off 39 balls to help England get off to a good start against Bangladesh at the Cricket World Cup in Dharamsala.\r\nFOLLOW LIVE: England v Bang… [+34 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "World Cup: England v Bangladesh - clips, radio & text",
+        "description": "Follow live text, in-play video clips and radio commentary as England play Bangladesh in the Men's Cricket World Cup 2023.",
+        "url": "http://www.bbc.co.uk/sport/live/cricket/66854377",
+        "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+        "publishedAt": "2023-10-10T05:07:21.3728416Z",
+        "content": "Bangladesh: Litton Das, Tanzid Hasan, Najmul Hossain Shanto, Mehidy Hasan, Shakib Al Hasan (c), Mushfiqur Rahim (wk), Towhid Hridoy, Mahedi Hasan, Taskin Ahmed, Shoriful Islam, Mustafizur Rahman.\r\nEn… [+165 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
